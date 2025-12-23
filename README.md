@@ -1,4 +1,4 @@
-# ESP32 Firmare for measuring moisture in rockflow batch
+# ESP32 Firmware for measuring moisture in rockflow batch
 The program here samples the moisture in the batch 6 places top mit and bottom in the 1 m and for the 1.5 m 8 sensors are used and sampled. Included is also a sensor SHT31 for measuring the temperature and moisture behind the element.  The data is transmitted to the cloud thingspeak.com for visualisation and futher dataanalysis
 
 
