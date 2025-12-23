@@ -6,6 +6,8 @@ The moisture sensors has been this type https://wiki.seeedstudio.com/Grove-Capac
 
 The 8 channel adc 12 bit converter MCP3208 has been used to interface the analog moisture sensors - the datasheet is in this directory
 
+Datasheet for the SHt31 sensor is also in this directory
+
 Create an espressif project in visual code use the mqtt example form espressif - and then overwrite the complete app_main.c with this app_main.c
 
 
